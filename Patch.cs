@@ -94,8 +94,6 @@ namespace Context_Menu_Lime_Mods
                 {
                     options.hidden = true; //force the hidden option to be true.
                 }
-
-                options.disableFlick = false;
             }
           
 
