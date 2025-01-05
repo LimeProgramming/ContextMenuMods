@@ -1,3 +1,7 @@
+> [!WARNING]
+> It is unlikely that I will maintain this, if it breaks, it breaks.<br>If I find out that it's broken and cannot be arsed to fix it, I'll take down the repo at some stage; likely long after it has broken. 
+> <br>As of `05/Jan/2025` is does work
+
 # Context Menu Funnies
 [ResoniteModLoader](https://github.com/resonite-modding-group/ResoniteModLoader) mod for [Resonite](https://resonite.com/) that lets you change the look of your context menu.
 
